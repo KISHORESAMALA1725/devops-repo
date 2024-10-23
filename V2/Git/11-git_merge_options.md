@@ -1,1 +1,2 @@
-# merge options 
+# merge options
+SAMPLE TEXT
